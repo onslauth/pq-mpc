@@ -1,2 +1,2 @@
-pq-mpfr
-pq-gmp
+part: 'pq-mpfr'
+part: 'pq-gmp'
